@@ -1,0 +1,4 @@
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.csprojAssemblyReference.cache
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.AssemblyInfoInputs.cache
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.AssemblyInfo.cs
