@@ -2,3 +2,10 @@
 /Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.csproj.CoreCompileInputs.cache
 /Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.AssemblyInfoInputs.cache
 /Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.AssemblyInfo.cs
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/bin/Debug/netcoreapp2.0/CSharpBasicsSolution.deps.json
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/bin/Debug/netcoreapp2.0/CSharpBasicsSolution.runtimeconfig.json
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/bin/Debug/netcoreapp2.0/CSharpBasicsSolution.runtimeconfig.dev.json
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/bin/Debug/netcoreapp2.0/CSharpBasicsSolution.dll
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/bin/Debug/netcoreapp2.0/CSharpBasicsSolution.pdb
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.dll
+/Users/alexcaskey/Documents/C# Projects/CSharpBasicsSolution/CSharpBasicsSolution/obj/Debug/netcoreapp2.0/CSharpBasicsSolution.pdb

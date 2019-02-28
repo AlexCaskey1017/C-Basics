@@ -1,11 +1,12 @@
 ﻿using System;
+
 namespace Csharp_Basics
 {
     public class Csharp_Basics
     {
-
-        public Csharp_Basics()
+        static void Main(string[] args)
         {
+
             const byte Sample1 = 0x3A;
             byte Sample2 = 58;
             int heartRate = 85;
@@ -22,63 +23,65 @@ namespace Csharp_Basics
             int i = 0;
             int age = 0;
 
-            /*comparing Sample1 to Sample2*/
+                /*comparing Sample1 to Sample2*/
 
-            if (Sample1 == Sample2)
-            {
-                Console.WriteLine("The samples are equal.");
-            }
-            else
-            {
-                Console.WriteLine("The samples are not equal.");
-            }
+                if (Sample1 == Sample2)
+                {
+                    Console.WriteLine("The samples are equal.");
+                }
+                else
+                {
+                    Console.WriteLine("The samples are not equal.");
+                }
 
-            /*heart rate check*/
+                /*heart rate check*/
 
-            if (heartRate >= 40 && heartRate <= 80)
-            {
-                Console.WriteLine("Heart rate is normal.");
-            } 
-            else
-            {
-            Console.WriteLine("Heart rate is not normal.");
-            }
+                if (heartRate >= 40 && heartRate <= 80)
+                {
+                    Console.WriteLine("Heart rate is normal.");
+                }
+                else
+                {
+                    Console.WriteLine("Heart rate is not normal.");
+                }
 
-            /*bank statement*/
+                /*bank statement*/
 
-            if (deposites >= 100000000)
-            {
-                Console.WriteLine("You are exceedingly wealthy.");
-            }
-            else
-            {
-                Console.WriteLine("Sorry you are so poor.");
-            }
-            /*calculating force*/
+                if (deposites >= 100000000)
+                {
+                    Console.WriteLine("You are exceedingly wealthy.");
+                }
+                else
+                {
+                    Console.WriteLine("Sorry you are so poor.");
+                }
+                /*calculating force*/
 
-            double force = mass * accelertion;
-            Console.WriteLine(force);
+                double force = mass * accelertion;
+                Console.WriteLine(force);
 
-            /*display the distance*/
+                /*display the distance*/
 
-            Console.WriteLine(distance.ToString(), " Is the distance");
+                Console.WriteLine(distance.ToString(), " Is the distance");
 
-            /*coupon boolean*/
+                /*coupon boolean*/
 
-            if (lost == true && expense == true)
-            {
-                Console.WriteLine("I am really sorry!I will get the manager.");
-            } else if (lost == true && expense == false)
-            {
-                Console.WriteLine("Here is coupon for 10 % off.");
-            } else
-            {
-                Console.WriteLine("");
-            }
+                if (lost == true && expense == true)
+                {
+                    Console.WriteLine("I am really sorry!I will get the manager.");
+                }
+                else if (lost == true && expense == false)
+                {
+                    Console.WriteLine("Here is coupon for 10 % off.");
+                }
+                else
+                {
+                    Console.WriteLine("");
+                }
 
                 /* switch/case */
 
-                switch (choice) 
+                switch (choice)
                 {
 
                     case 1:
@@ -94,9 +97,9 @@ namespace Csharp_Basics
                         Console.WriteLine("You made an unknown choice.");
                         break;
                 }
-            /* display integral */
+                /* display integral */
 
-            Console.WriteLine(integral.ToString() , " Is an integral.");
+                Console.WriteLine(integral.ToString(), " Is an integral.");
 
                 /* for loop */
 
@@ -105,18 +108,18 @@ namespace Csharp_Basics
                     Console.WriteLine("Value of i: " + i.ToString());
                 }
 
-            /* While loop */
+                /* While loop */
 
-            while (age < 7)
-            {           
-                Console.WriteLine("Value of age: {0}", age);
-                age++;
+                while (age < 7)
+                {
+                    Console.WriteLine("Value of age: {0}", age);
+                    age++;
+                }
+
+                /* greeting + name */
+
+                Console.WriteLine(greeting + "" + name);
             }
-
-            /* greeting + name */
-
-            Console.WriteLine(greeting, name);
-
         }
     }
-}
+
