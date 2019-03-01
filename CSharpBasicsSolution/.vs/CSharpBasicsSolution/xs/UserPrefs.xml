@@ -1,9 +1,5 @@
-﻿<Properties StartupConfiguration="{9A197340-25CD-42B3-B549-0E589F3C9A92}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpBasicsSolution/Program.cs">
-    <Files>
-      <File FileName="CSharpBasicsSolution/Program.cs" Line="125" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{854771AF-C3AF-4E69-8927-3FCA63C9EE01}|Default">
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
